@@ -10,10 +10,9 @@
 
 - [x] Extração e limpeza dos dados;
 - [x] Heurísticas;
-- [ ] Visualização dos dados;
-- [ ] Machine Learning;
-  - [ ] Testar modelos de machine learning;
-  - [ ] Melhorar o desempenho do modelo.
+- [X] Visualização dos dados;
+- [X] Implementação do algoritmo K-NN para recomendação de filmes;
+  - [X] Teste do algoritmo com um novo usuário;
 
 ### 🛠 Tools
 
