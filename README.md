@@ -1,9 +1,7 @@
 # Movie Recommender System - Data Science
 
-  Recommender systems and heuristics
-
 <h3 align="center"> 
-	🚧  🚀 Em construção...  🚧
+	 Recommender systems and heuristics
 </h3>
 
 ### :computer: Features
