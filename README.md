@@ -1,8 +1,6 @@
 # Movie Recommender System - Data Science
 
-<h3 align="center"> 
-	 Recommender systems and heuristics
-</h3>
+by: Victor Oliveira
 
 ### :computer: Features
 
