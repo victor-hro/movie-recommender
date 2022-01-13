@@ -1,4 +1,4 @@
-# Movie Recommender System - Data Science
+# Movie Recommender System
 
 by: Victor Oliveira
 
