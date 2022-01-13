@@ -7,10 +7,10 @@
 ### :computer: Features
 
 - [x] Extração e limpeza dos dados;
-- [x] Heurísticas;
-- [X] Visualização dos dados;
+- [x] Heurísticas e testes;
+	- [X] Visualização dos dados;
 - [X] Implementação do algoritmo K-NN para recomendação de filmes;
-  - [X] Teste do algoritmo com um novo usuário;
+  - [X] Teste do algoritmo;
 
 ### 🛠 Tools
 
